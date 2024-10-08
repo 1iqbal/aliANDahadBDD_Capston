@@ -1,0 +1,7 @@
+ui:
+   browser: firefox
+   headless: false
+   
+   url: https://retail.tekschool-students.com/
+   
+
